@@ -1,0 +1,11 @@
+{
+  "name": "mywinby-math-quiz",
+  "version": "1.0.0",
+  "description": "초등학교 1학년 수준의 덧셈·뺄셈 퀴즈 웹앱",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "python3 -m http.server 8000"
+  },
+  "license": "MIT"
+}
